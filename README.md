@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DxYz1
+- 👋 Hi, I’m Durand
 - 👀 I’m interested in electronics engineering
 - 🌱 I’m currently a PhD candidate at the University of Toronto, 
 where I'm researching high-speed wireline communication.
